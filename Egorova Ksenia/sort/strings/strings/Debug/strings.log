@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ксюша\source\repos\strings\strings\TVector.h(132): warning C4715: TVector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+  strings.vcxproj -> C:\Users\Ксюша\source\repos\strings\Debug\strings.exe
