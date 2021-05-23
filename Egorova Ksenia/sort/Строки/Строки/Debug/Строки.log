@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Ксюша\Desktop\Строки\Строки\text_editor.h(21,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки\Строки\text_editor.h(48,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки\Строки\text_editor.h(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки\Строки\text_editor.h(66,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки\Строки\text_editor.h(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки\Строки\text_editor.h(109,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки\Строки\text_editor.h(112,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Строки.vcxproj -> C:\Users\Ксюша\Desktop\Строки\Debug\Строки.exe
