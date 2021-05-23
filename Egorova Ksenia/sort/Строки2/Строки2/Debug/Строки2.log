@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(49,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(90,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(94,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(102,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(115,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(119,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(127,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксюша\Desktop\Строки2\Строки2\media_processing.h(137,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Строки2.vcxproj -> C:\Users\Ксюша\Desktop\Строки2\Debug\Строки2.exe
