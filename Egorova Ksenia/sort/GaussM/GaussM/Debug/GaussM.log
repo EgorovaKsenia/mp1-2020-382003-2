@@ -1,0 +1,12 @@
+﻿  gauss.cpp
+C:\Users\Ксюша\Desktop\GaussM\GaussM\gauss.cpp(14,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Ксюша\Desktop\GaussM\GaussM\gauss.cpp(14,6): warning C4101: i: неиспользованная локальная переменная
+  main.cpp
+  matrix.cpp
+C:\Users\Ксюша\Desktop\GaussM\GaussM\matrix.cpp(27,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Ксюша\Desktop\GaussM\GaussM\matrix.cpp(82,9): warning C4101: t: неиспользованная локальная переменная
+  vector.cpp
+C:\Users\Ксюша\Desktop\GaussM\GaussM\vector.cpp(60,9): warning C4101: p: неиспользованная локальная переменная
+C:\Users\Ксюша\Desktop\GaussM\GaussM\vector.cpp(83,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  GaussM.vcxproj -> C:\Users\Ксюша\Desktop\GaussM\Debug\GaussM.exe
